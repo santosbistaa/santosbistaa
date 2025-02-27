@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Bista</h1>
-<h3 align="center">Machine Learning Enthusiast and Student</h3>
+<h3 align="center">Aim to be a Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosbistaa&label=Profile%20views&color=0e75b6&style=flat" alt="santosbistaa" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/santoshbista9" target="blank"><img src="https://img.shields.io/twitter/follow/santoshbista9?logo=twitter&style=for-the-badge" alt="santoshbista9" /></a> </p>
 
-- 🌱 I’m currently learning **supervised learning,unsupervised learning and neural network.**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **santosbista17@gmail.com**
 
